@@ -1,6 +1,6 @@
 # SDD Workshop
 
-Spec-driven development workshop.
+Spec-driven development workshop. [Curso en Udemy](https://www.udemy.com/course/spec-driven-development-inteligente/?referralCode=D67B0EB2BD294D29A5B7)
 
 ## Demo Project
 [Monorepo](https://github.com/AlbertoBasaloAcademy/sdd) for AstroBookings project.
